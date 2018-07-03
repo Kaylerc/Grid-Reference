@@ -1,0 +1,27 @@
+.grid {
+display: grid;
+color: blue;
+font-family: fantasy;
+grid-gap: 50px;
+grid-template-rows: 200px 200px;
+grid-template-columns: 500px 500px;
+padding-left: 5%;
+
+}
+
+
+.grid div {
+background-color: pink;
+text-align: center;
+padding-top: 45px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+
+html {
+  padding-left: 5%;
+  padding-right: 5%;
